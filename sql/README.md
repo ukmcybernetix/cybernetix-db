@@ -1,4 +1,4 @@
-![](https://github.com/ncaneldiee/cybernetix-db/sql/image.png)
+![](https://github.com/ncaneldiee/cybernetix-db/blob/master/sql/image.png)
 
 ### 1. Angkatan
 
