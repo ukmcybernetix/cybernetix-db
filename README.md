@@ -1,7 +1,8 @@
 ### Perancangan Database Anggota UKM IT CybernetiX
 
 ###Description
-Tolong provide short description tentang system disini yes. see issue #1
+Internal system untuk manajemen keanggotaan UKM IT cybernetix. 
 
 ###Features
-Tolong provide feature apa aj yang mau kita bikin di system ini yes. see issue #1
+1. Pencatatan data anggota.
+2. Task assignment (proposal. see issue #3)
