@@ -1,4 +1,4 @@
--- DROP DATABASE IF EXISTS `cybernetix`;
+DROP DATABASE IF EXISTS `cybernetix`;
 CREATE DATABASE IF NOT EXISTS `cybernetix` CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 USE `cybernetix`;
 
